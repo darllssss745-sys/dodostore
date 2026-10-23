@@ -1,0 +1,61 @@
+MASTER RESELL RIGHTS LICENSE (STRICT ATTRIBUTION)
+Project: PremkuIntegrated (Automated Digital Store)
+Copyright (c) 2026 MARSHEP OLLO X PT. PACIFIC PEDIA DIGITAL
+
+========================================================================
+PERJANJIAN LISENSI PENGGUNAAN & PENJUALAN KEMBALI
+========================================================================
+
+PENTING: Lisensi ini diberikan karena Anda telah mendapatkan akses Premium 
+(Upgrade Level). Dengan memegang file ini, Anda menyetujui aturan berikut:
+
+1. HAK PENJUALAN KEMBALI (RESELL RIGHTS)
+   Anda DIPERBOLEHKAN untuk menjual kembali script ini kepada orang lain 
+   dengan harga yang Anda tentukan sendiri. Keuntungan penjualan 100% 
+   adalah milik Anda.
+
+2. HAK PENGGUNAAN KOMERSIAL
+   Anda bebas menggunakan script ini untuk membuka jasa pembuatan website, 
+   proyek klien, atau penggunaan pribadi tanpa batasan jumlah domain.
+
+3. KEBEBASAN MODIFIKASI FITUR
+   Anda diperbolehkan untuk memodifikasi tampilan (CSS/HTML), menambah fitur, 
+   atau memperbaiki bug pada script ini.
+
+------------------------------------------------------------------------
+LARANGAN KERAS (STRICT RESTRICTIONS):
+------------------------------------------------------------------------
+
+4. DILARANG MENGHAPUS COPYRIGHT
+   Dilarang keras menghapus, menyembunyikan, atau memodifikasi nama 
+   Author/Creator asli (MARSHEP OLLO) yang terdapat pada:
+   - Header setiap file source code (PHP/JS).
+   - Footer website (jika ada tulisan "Powered by...").
+   - File ini (LICENSE.txt).
+
+5. DILARANG MENGHAPUS FILE LISENSI
+   File LICENSE.txt ini WAJIB disertakan dalam setiap paket penjualan 
+   atau distribusi ulang. Dilarang menghapus atau mengubah isi file ini.
+
+6. DILARANG KLAIM KEPEMILIKAN (NO CLAIM)
+   Anda boleh menjualnya, tapi Anda DILARANG mengakui script ini sebagai 
+   hasil karya cipta Anda sendiri (Rebranding Total/White Label dilarang). 
+   Anda berstatus sebagai "Reseller" atau "Pengembang Lanjutan", bukan "Pencipta Asli".
+
+------------------------------------------------------------------------
+DISCLAIMER & LAIN-LAIN:
+------------------------------------------------------------------------
+
+A. TANPA GARANSI (AS IS)
+   Script ini didistribusikan "APA ADANYA". Pembuat asli tidak bertanggung 
+   jawab atas segala kerugian, error server, atau banned API yang terjadi 
+   akibat penggunaan script ini oleh Anda atau klien Anda.
+
+B. NO REFUND
+   Karena sifat produk ini adalah barang digital (Source Code), maka 
+   tidak ada pengembalian dana setelah file diterima.
+
+Pelanggaran terhadap poin 4, 5, dan 6 akan membatalkan hak penggunaan 
+dan penjualan kembali Anda secara otomatis.
+
+Selamat berjualan dengan amanah!

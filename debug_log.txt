@@ -1,0 +1,233 @@
+2026-01-04 14:09:40 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:40 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:41 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:41 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:46 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:46 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:49 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:49 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:52 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:52 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:55 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:55 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:09:58 - Mencoba Order Produk ID: 7
+2026-01-04 14:09:58 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:01 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:01 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:04 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:04 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:07 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:07 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:10 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:10 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:13 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:14 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:16 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:16 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:19 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:19 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:22 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:22 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:25 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:26 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:28 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:28 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:31 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:31 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:34 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:34 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:37 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:37 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:41 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:41 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:43 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:43 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:46 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:46 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:49 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:50 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:52 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:52 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:55 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:55 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:10:58 - Mencoba Order Produk ID: 7
+2026-01-04 14:10:58 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:11:03 - Mencoba Order Produk ID: 7
+2026-01-04 14:11:03 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:11:04 - Mencoba Order Produk ID: 7
+2026-01-04 14:11:04 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:11:07 - Mencoba Order Produk ID: 7
+2026-01-04 14:11:07 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 14:11:10 - Mencoba Order Produk ID: 7
+2026-01-04 14:11:10 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:18:46 - Mencoba Order Produk ID: 7
+2026-01-04 21:18:46 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:18:49 - Mencoba Order Produk ID: 7
+2026-01-04 21:18:49 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:18:52 - Mencoba Order Produk ID: 7
+2026-01-04 21:18:52 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:18:55 - Mencoba Order Produk ID: 7
+2026-01-04 21:18:55 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:18:58 - Mencoba Order Produk ID: 7
+2026-01-04 21:18:58 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:01 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:01 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:04 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:04 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:07 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:07 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:10 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:10 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:13 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:13 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:16 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:16 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:19 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:19 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:22 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:22 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:25 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:25 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:28 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:28 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:31 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:31 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:34 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:34 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:37 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:37 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:40 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:40 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:43 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:43 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:46 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:46 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:19:49 - Mencoba Order Produk ID: 7
+2026-01-04 21:19:49 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:01 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:01 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:05 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:05 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:08 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:08 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:11 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:11 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:14 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:14 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:17 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:17 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:22 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:22 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:24 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:24 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:26 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:26 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:29 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:29 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:33 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:34 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:36 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:36 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:39 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:39 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:42 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:42 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:45 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:45 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:48 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:48 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:52 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:54 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:54 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:20:57 - Mencoba Order Produk ID: 7
+2026-01-04 21:20:57 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:00 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:01 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:03 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:03 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:06 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:06 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:09 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:09 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:12 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:12 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:15 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:15 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:18 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:18 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:21 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:22 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:24 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:25 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:27 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:27 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:30 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:30 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:21:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:21:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:25 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:25 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:30 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:30 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:33 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:33 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:36 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:36 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:39 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:39 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:42 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:42 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:45 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:45 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:48 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:48 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:54 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:54 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:22:57 - Mencoba Order Produk ID: 7
+2026-01-04 21:22:57 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:00 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:00 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:03 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:03 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:06 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:06 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:09 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:09 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:12 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:12 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:15 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:15 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:18 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:18 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:21 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:21 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:24 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:24 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:27 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:27 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:30 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:30 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:33 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:33 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:36 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:36 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:39 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:39 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:23:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:23:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:24:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:24:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:25:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:25:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:26:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:26:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:27:51 - Mencoba Order Produk ID: 7
+2026-01-04 21:27:51 - GAGAL ORDER: Stok produk tidak cukup.
+2026-01-04 21:28:40 - Mencoba Order Produk ID: 7
+2026-01-04 21:28:40 - GAGAL ORDER FIXED: Stok produk tidak cukup.
+2026-01-04 22:34:03 - Mencoba Order Produk ID: 4
+2026-01-04 22:36:49 - Mencoba Order Produk ID: 9
+2026-01-23 22:10:06 - Mencoba Order Produk ID: 8
